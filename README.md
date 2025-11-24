@@ -1,6 +1,7 @@
 # Design-Profissional1
 
 https://github.com/Patricia-Pimentel/Certificacao-em-TI
+https://lattes.cnpq.br/7926543141908340
 
 A disciplina Design Profissional prepara estudantes de tecnologia para desenvolver competências técnicas e construir carreiras éticas e sustentáveis no mercado de TI. O curso aborda desde a criação de presença digital estratégica — como uso de LinkedIn, GitHub e portfolios — até planejamento de carreira e aprendizado contínuo nas diversas áreas da tecnologia.
 
